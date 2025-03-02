@@ -124,16 +124,6 @@
     <!-- <td><img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="130"></td>-->
   </tr>
   <tr>
-    <td><strong>Web Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    </td>
-    <!-- <td><img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-<!-- 0889ae726bf7.gif" width="130"></td>-->
-  </tr>
-  <tr>
     <td><strong>Databases</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
