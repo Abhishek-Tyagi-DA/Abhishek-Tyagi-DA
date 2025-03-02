@@ -1,6 +1,7 @@
 ![logo]([https://github.com/VargheseTito/VargheseTito/blob/main/ban1.png](https://github.com/user-attachments/assets/2c427b65-4a70-468c-ad04-ec2c08750869))
 <h1 align="center">Hi 👋, Myself Abhishek Tyagi</h1>
 <h3 align="center">An aspiring Data Science Learner</h3>
+
 (img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed)")
 
 
