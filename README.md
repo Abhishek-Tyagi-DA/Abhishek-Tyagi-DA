@@ -1,8 +1,8 @@
-[![MasterHead](![Image](https://github.com/user-attachments/assets/d6ab3833-b73c-4f09-a3ab-f27eb70d9a4c))
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, Myself Abhishek Tyagi</h1>
 <h3 align="center">An aspiring Data Science Learner</h3>
 
-(img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed)")
+![Image](https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-tyagi-da&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-tyagi-da" /> </p>
