@@ -1,11 +1,13 @@
-<p align="center" style="background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.usu.edu%2Fmath%2Fdatascience%2F&psig=AOvVaw2UcNUaX2b5y93Gh5HL2Lv1&ust=1741012612739000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJjE4tDP64sDFQAAAAAdAAAAABAE') no-repeat center center; background-size: cover; padding: 50px 0;">
+<p align="center" style="background: url('[![Image](https://github.com/user-attachments/assets/ef2ecd22-ef1d-4837-a332-f061a2679a56)](https://github.com/VargheseTito/VargheseTito/blob/main/ban1.png)') no-repeat center center; background-size: cover; padding: 50px 0;">
   <h1 align="center">Hi 👋, Myself Abhishek Tyagi</h1>
+  <h1 align="center">An aspiring data science professional navigating the Forever Learning Curve</h1>
   <h1 align="center" style="color: white;">Turning Data into Intelligent Solutions 🚀</h1>
   <h3 align="center" style="color: white;">Data Science | Machine Learning | AI-Driven Insights</h3>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed" alt="Profile Banner" width="80%">
+  <img src="https://github.com/user-attachments/assets/77ac71f0-f5b3-4f70-b187-5c2bce0c41ed" alt="Profile Banner" width="80%" style="height: 450px;">
+
 </p>
 
 <p align="center">
@@ -87,5 +89,7 @@
 </p>
 
 ---
+**"On a Forever Learning Curve"**
+🚀 **"Transforming raw data into powerful insights—one algorithm at a time."** 
 
-🚀 **"Transforming raw data into powerful insights—one algorithm at a time."** Let's build something amazing together!
+Let's connect and build something amazing together!
