@@ -1,4 +1,4 @@
-![logo]([https://github.com/VargheseTito/VargheseTito/blob/main/ban1.png](https://github.com/user-attachments/assets/2c427b65-4a70-468c-ad04-ec2c08750869))
+[![MasterHead](![Image](https://github.com/user-attachments/assets/d6ab3833-b73c-4f09-a3ab-f27eb70d9a4c))
 <h1 align="center">Hi 👋, Myself Abhishek Tyagi</h1>
 <h3 align="center">An aspiring Data Science Learner</h3>
 
