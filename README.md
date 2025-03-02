@@ -89,7 +89,6 @@
 </p>
 
 ---
-**"On a Forever Learning Curve"**
-🚀 **"Transforming raw data into powerful insights—one algorithm at a time."** 
+🚀 **Transforming raw data into powerful insights—one algorithm at a time.** 
 
 Let's connect and build something amazing together!
