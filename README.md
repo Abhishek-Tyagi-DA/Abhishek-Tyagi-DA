@@ -46,7 +46,7 @@
 - 📊 Hands-on Experience in **Clustering, Sentiment Analysis, Classification, and Regression Machine Learning Models**
 - 🌱 Currently Exploring **Deep Learning, NLP, and Large-Scale AI Models**
 - 🛠️ Skilled in **Data Wrangling, Statistical Analysis, and Predictive Modeling**
-- 📈 Passionate about **Data Visualization, AI-driven Business Solutions & Scalable Systems**
+- 📈 Driven by curiosity and a commitment to continuous learning, I specialize in **Data Visualization, AI-Driven Business Intelligence, and Scalable System Architecture.**
 - 👨‍💻 Check out my portfolio: [Portfolio](https://abhishek-tyagi-da.github.io/Portfolio/)
 - 📫 Reach me at **abhityagi4733@gmail.com**
 
